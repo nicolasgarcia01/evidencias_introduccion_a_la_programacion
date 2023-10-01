@@ -11,19 +11,22 @@
 **Completa el siguiente código HTML añadiendo el contenido multimedia correspondiente en cada sección:**
 
 -4 Imagenes
+<div>
 -2 Videos
+<div>
 -4 Audios
+<div>
 -2 Inline Frame
 
 # Solucion 
 
-<!DOCTYPE html>
-<html>
+    <!DOCTYPE html>
+    <html>
 
-<head>
+    <head>
     <title>HTML5</title>
     <style>
-        body {
+    body {
             font-family: Arial, sans-serif;
         }
 
@@ -51,9 +54,9 @@
             text-align: center;
         }
     </style>
-</head>
+    </head>
 
-<body>
+    <body>
 
     <header>
         <h1>LAS MARAVILLAS DEL MUNDO</h1>
@@ -131,8 +134,8 @@
         &copy;2023
     </footer>
 
-</body>
+    </body>
 
-</html>
+    </html>
 
 
