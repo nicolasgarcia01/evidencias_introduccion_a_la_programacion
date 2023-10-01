@@ -21,7 +21,7 @@ Precio
 Stock
 <div>
 Fecha de creación
-
+<div>
 # Solucion
 
     <table border="5" cellpadding="12" cellspacing="12">
