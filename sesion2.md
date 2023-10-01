@@ -45,12 +45,12 @@ Las páginas del sitio serán:
 
 **about.html**
 
-<!DOCTYPE html>
-<html>
-<head>
+     <!DOCTYPE html>
+     <html>
+     <head>
     <title>Encargados de ejecutar la actividad 3 </title>
-</head>
-<body>
+     </head>
+     <body>
      <header>
         <h1>Desarrollar las actividades encargadas</h1>
      </header>
@@ -71,17 +71,17 @@ Las páginas del sitio serán:
          <footer>
             <p>Copyright 2023 - Nicolas Garcia</p>
          </footer>
-</body>
-</html>
+         </body>
+        </html>
 
 **contact.html**
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Nicolas Garcia</title>
-</head>
-<body>
+       <!DOCTYPE html>
+      <html>
+     <head>
+     <title>Nicolas Garcia</title>
+     </head>
+    <body>
     <header>
         <h1>Nicolas Garcia</h1>
     </header>
@@ -106,14 +106,14 @@ Las páginas del sitio serán:
          <aside>
             <h3>Medellin</h3>
             <p>Cra 57 #59-90</p>
-</aside>
+       </aside>
 
     </main>
     <footer>
         <p>Copyright 2023 - Nicolas Garcia</p>
-    </footer>
-</body>
-</html>
+    </footer>  
+      </body>
+     </html>
 
 
 
