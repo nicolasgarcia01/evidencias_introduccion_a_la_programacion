@@ -47,18 +47,18 @@ Las páginas del sitio serán:
 
      <!DOCTYPE html>
      <html>
-     <head>
+    <head>
     <title>Encargados de ejecutar la actividad 3 </title>
-     </head>
-     <body>
-     <header>
+    </head>
+    <body>
+    <header>
         <h1>Desarrollar las actividades encargadas</h1>
-     </header>
-     <nav>
+    </header>
+    <nav>
         <a href="index.html">inicio</a>
         <a href="contact.html">contacto</a>
-     </nav>
-     <section>
+    </nav>
+    <section>
       <h2>Nuestra historia empieza,cuando el profesor Jhon fredy nos da a realizar una actividad en la clase de introduccion a la programación. </h2>
       <p>Fundada en el 2023</p>
       <article>
@@ -71,16 +71,16 @@ Las páginas del sitio serán:
      <footer>
      <p>Copyright 2023 - Nicolas Garcia</p>
      </footer>
-     </body>
-     </html>
+    </body>
+    </html>
 
 **contact.html**
 
        <!DOCTYPE html>
       <html>
-     <head>
-     <title>Nicolas Garcia</title>
-     </head>
+    <head>
+    <title>Nicolas Garcia</title>
+    </head>
     <body>
     <header>
         <h1>Nicolas Garcia</h1>
@@ -91,17 +91,17 @@ Las páginas del sitio serán:
     </nav>
     <main>
     <form>
-    <label for="nombre">Nombre</label>
-    <input type="text" id="nombre"><br>
+     <label for="nombre">Nombre</label>
+     <input type="text" id="nombre"><br>
 
-    <label for="email">email:</label>
-    <input type="email" id="email"><br>
+     <label for="email">email:</label>
+     <input type="email" id="email"><br>
 
-    <label for="mensaje">mensaje:</label><br>
-    <textarea id="mensaje"></textarea><br>
+     <label for="mensaje">mensaje:</label><br>
+     <textarea id="mensaje"></textarea><br>
 
-    <input type="submit" value="enviar">
-    </form>
+     <input type="submit" value="enviar">
+     </form>
 
     <aside>
     <h3>Medellin</h3>
@@ -112,8 +112,8 @@ Las páginas del sitio serán:
     <footer>
     <p>Copyright 2023 - Nicolas Garcia</p>
     </footer>  
-      </body>
-     </html>
+    </body>
+    </html>
 
 
 
