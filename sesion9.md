@@ -13,15 +13,19 @@
 **Preguntas:**
 
 1. ¿Qué es la propiedad margin?
+
 <div>
 
 2. ¿Qué es la propiedad padding?
+
 <div>
 
 3. ¿Qué es la propiedad border?
+
 <div>
 
 4. ¿Qué es la propiedad border-radius?
+
 <div>
 
 5. ¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
@@ -29,6 +33,7 @@
 # Solución
 
 1. La propiedad CSS margin establece el margen para los cuatro lados. Es una abreviación para evitar tener que establecer cada lado por separado con las otras propiedades de margen: margin-top (en-US), margin-right , margin-bottom y margin-left (en-US).
+
 <div>
 
 2. El padding de un elemento es la cantidad de espacio entre el borde y el contenido del elemento. Se dan entre uno y cuatro valores, donde cada valor puede ser una longitud o un porcentaje. Los valores en porcentaje se refieren al ancho del elemento padre.
@@ -38,6 +43,7 @@
 <div>
 
 4. La propiedad CSS border-top-left-radius establece el redondeo de la esquina superior izquierda del elemento. El redondeo puede ser un círculo o una elipse, o si uno de los valores es 0 , no se redondeará la esquina, dejándola cuadrada.
+
 <div>
 
 5. 
