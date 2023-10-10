@@ -6,7 +6,6 @@
 
 <!-- Su documentación aquí -->
 
-hola gente
 
 
 
