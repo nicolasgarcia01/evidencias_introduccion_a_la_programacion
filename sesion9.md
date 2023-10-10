@@ -12,23 +12,23 @@
 
 **Preguntas:**
 
-1. ¿Qué es la propiedad margin?
+**1. ¿Qué es la propiedad margin?**
 
 <div>
 
-2. ¿Qué es la propiedad padding?
+**2. ¿Qué es la propiedad padding?**
 
 <div>
 
-3. ¿Qué es la propiedad border?
+**3. ¿Qué es la propiedad border?**
 
 <div>
 
-4. ¿Qué es la propiedad border-radius?
+**4. ¿Qué es la propiedad border-radius?**
 
 <div>
 
-5. ¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
+**5. ¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?**
 
 # Solución
 
@@ -51,6 +51,26 @@
 <div>
 
 5. 
+
+<div>
+
+1. Píxeles (px): Se utilizan para medir la resolución de una pantalla o la ubicación de elementos gráficos en una interfaz de usuario.
+
+<div>
+
+2. Coordenadas: En sistemas de gráficos o interfaces gráficas, se utilizan coordenadas cartesianas (x, y) o coordenadas polares para representar ubicaciones y posiciones.
+
+<div>
+
+3. Unidades relativas: En CSS, por ejemplo, se pueden usar unidades relativas como porcentaje (%) o "em" para dimensionar elementos en relación con otros elementos.
+
+<div>
+
+4. Unidades de medida física: Algunas aplicaciones pueden requerir unidades físicas como centímetros o pulgadas para el diseño de impresiones o documentos físicos.
+
+<div>
+
+**La elección de la unidad de medida en programación depende del contexto y de los requisitos específicos de tu proyecto. Cada entorno de programación puede tener sus propias convenciones y unidades de medida preferidas para trabajar con propiedades espaciales.**
 
 
 
