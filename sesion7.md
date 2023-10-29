@@ -19,7 +19,7 @@ Documentar el repositorio en el archivo README.md
 
 # Solucion 
 
-**link:** https://nicolasgarcia01.github.io/Actividad7/
+**link:https://nicolasgarcia01.github.io/Actividad7/**
 
 
 
